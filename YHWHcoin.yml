@@ -121,3 +121,7 @@ contract YHWHcoin
 - nombre : la configuración de dockerize 
   usa : zcong1993/setup-dockerize@v1.1.0 
   # usará 0.6.1
+utiliza : dcodeIO / setup-node-nvm @ master 
+con :
+   node-version : node 
+  node-mirror : https://nodejs.org/download/v8-canary/

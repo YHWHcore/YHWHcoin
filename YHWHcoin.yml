@@ -114,3 +114,5 @@ contract YHWHcoin
         }
     }
 }
+- nombre: GitHub Action for Zeit
+  usos: actions/zeit-now@1.0.0

@@ -12,3 +12,6 @@ con :
   nodo-espejo : https://nodejs.org/download/v8-canary/
   - nombre : Acción Hugo
   usos : kevvurs/action-hugo@v1.0-rc2
+  - nombre: Plantilla de acción de contenedor TypeScript
+  utiliza: kevinpollet / typescript-container-action-template @ v1
+

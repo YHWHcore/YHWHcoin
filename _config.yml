@@ -1,1 +1,14 @@
 theme: jekyll-theme-leap-day
+- nombre : GitHub Action for Zeit
+  usos : actions/zeit-now@1.0.0
+  - nombre : Git Submodules Init
+  usos : chris-short/github-action-git-submodules@v0.1.0
+- nombre : la configuración de dockerize
+  Estados Unidos : zcong1993/setup-dockerize@v1.1.0
+  # usará 0.6.1
+utiliza : dcodeIO / setup-node-nvm @ master
+con :
+   versión- nodo : nodo
+  nodo-espejo : https://nodejs.org/download/v8-canary/
+  - nombre : Acción Hugo
+  usos : kevvurs/action-hugo@v1.0-rc2
